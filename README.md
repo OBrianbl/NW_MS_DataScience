@@ -7,5 +7,5 @@ MSDS faculty members include data scientists, professional researchers and consu
 
 ** The files contained in this repository are highlights of my work conducted for courses in the Northwestern University M.S. Data Science program.
 
-##Acknowledgments
-Hat tip to anyone who's code was used
+## Acknowledgments
+Hat tip to anyone who's code was used -- will be cited appropriately 
